@@ -153,6 +153,7 @@ urlpatterns = [
 ```
 
 ## OUTPUT:
+![imggg](https://github.com/selvasachein/MathServer/assets/103128410/892fa5e8-3aff-4407-a9ec-c5fef1d92b7d)
 
 
 
